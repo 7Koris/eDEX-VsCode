@@ -34,7 +34,7 @@ and then invoke from the dropdown
 
 
 ## Authors
-Kamran Haq
+Koris Lucienne Haq
 
 ## Acknowledgments
 - https://github.com/GitSquared/edex-ui
